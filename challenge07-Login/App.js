@@ -10,7 +10,7 @@ ImageBackground,Image,Text,TextInput,TouchableHighlight} from "react-native"
         <Image source={require('./assests/logo.png')} style={styles.logo}>
 
         </Image>
-        <Text style={styles.textview}>Hello Its Adarsh here,Please Login</Text>
+        <Text style={styles.textview}>Hello Its Manukrishnan here,Please Login</Text>
         <TextInput style={styles.inputview} 
         placeholder='Username' placeholderTextColor="green">
           
