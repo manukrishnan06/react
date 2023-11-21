@@ -10,7 +10,7 @@ ImageBackground,Image,Text,TextInput,TouchableHighlight} from "react-native"
         <Image source={require('./assests/logo.png')} style={styles.logo}>
 
         </Image>
-        <Text style={styles.textview}>Hello Its Adarsh here,Please Register</Text>
+        <Text style={styles.textview}>Hello Its Manukrishnan here,Please Register</Text>
         <TextInput style={styles.inputview} 
         placeholder='Name' placeholderTextColor="green">
           
@@ -89,7 +89,7 @@ onPress={() => Alert.alert('Simple Button pressed')}>
       height:'60%'
       ,width:'55',
 
-      backgroundColor:'green'
+      backgroundColor:'lightgreen'
       ,borderRadius:8,
       marginTop:8
       
